@@ -1,0 +1,26 @@
+{
+  "name": "my-first-template",
+  "version": "1.0.0",
+  "description": "'my-first-template'",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+   "start": "parcel src/index.html",
+    "test": "echo 'Hello Boss'",
+   "build": "parcel build src/index.html"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymenkoMaksym/my-first-template.git"
+  },
+  "author": "MMC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymenkoMaksym/my-first-template/issues"
+  },
+  "homepage": "https://github.com/MaksymenkoMaksym/my-first-template#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
