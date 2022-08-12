@@ -21,6 +21,7 @@
   "homepage": "https://github.com/MaksymenkoMaksym/my-first-template#readme",
   "devDependencies": {
     "parcel": "^2.7.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   }
 }
