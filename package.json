@@ -2,6 +2,7 @@
   "name": "my-first-template",
   "version": "1.0.0",
   "description": "my-first-template",
+  "homepage": "https://github.com/MaksymenkoMaksym/my-first-template",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
@@ -18,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/MaksymenkoMaksym/my-first-template/issues"
   },
-  "homepage": "https://github.com/MaksymenkoMaksym/my-first-template#readme",
   "devDependencies": {
     "parcel": "^2.7.0",
     "parcel-reporter-clean-dist": "^1.0.4",
